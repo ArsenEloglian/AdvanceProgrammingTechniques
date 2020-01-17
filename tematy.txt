@@ -1,4 +1,4 @@
-Piotr Świtalski - 1
+﻿Piotr Świtalski - 1
 Kamil Mucha -1
 Sylwester Antosik - 7 
 Edyta Szeligowska - 3
@@ -8,3 +8,4 @@ Paweł Pawlak - 4
 Piotr Fątner - 3
 Łukasz Marzuchowski - 6
 Michał Łukasik - 2
+Piotr Rybak - 3
